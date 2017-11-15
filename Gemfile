@@ -40,6 +40,8 @@ gem 'autoprefixer-rails'
 # Use figaro gem for git ignore file
 gem 'figaro'
 
+gem 'rails-observers'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
