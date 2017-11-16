@@ -30,6 +30,23 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Use yt gem to access YouTube API
+gem 'yt', '~> 0.13.7'
+
+# Use omniauth-google to access google API
+gem 'omniauth-google-oauth2'
+
+# Use bootstrap gem for css styling
+gem 'bootstrap-sass', '~> 3.3.0.1'
+gem 'autoprefixer-rails'
+
+# Use figaro gem for git ignore file
+gem 'figaro'
+
+gem 'rails-observers'
+
+gem 'active_type', '0.3.1'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
