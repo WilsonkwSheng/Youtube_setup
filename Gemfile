@@ -45,6 +45,8 @@ gem 'figaro'
 
 gem 'rails-observers'
 
+gem 'active_type', '0.3.1'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
